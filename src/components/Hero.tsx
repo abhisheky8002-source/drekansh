@@ -162,7 +162,7 @@ export default function Hero({ onBookClick }: HeroProps) {
               {/* Image Container with high contrast card styles */}
               <div className="absolute inset-0 rounded-[2rem] overflow-hidden shadow-2xl bg-white border-4 border-white">
                 <img
-                  src="/src/assets/images/dr_debuka_portrait_1780224205205.png"
+                  src="https://res.cloudinary.com/dr5obadvt/image/upload/v1780229254/587802656_17842679394634714_3646617993978590076_n_udyfjs.jpg"
                   alt="Dr. Ekansh Debuka Portrait"
                   className="w-full h-full object-cover object-top hover:scale-102 transition-transform duration-500"
                   referrerPolicy="no-referrer"
