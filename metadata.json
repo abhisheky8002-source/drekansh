@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Ekansh Debuka - Orthopedic Surgeon",
+  "description": "Premium, trustworthy and modern patient platform for Dr. Ekansh Debuka, Orthopedic Surgeon at Debuka Hospital Ranchi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
