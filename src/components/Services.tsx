@@ -17,7 +17,7 @@ export default function Services({ onBookClick }: ServicesProps) {
       icon: Activity,
       color: "from-blue-550 to-sky-600 animate-pulse-slow",
       badge: "Non-Surgical & Surgical",
-      image: "/src/assets/images/sports_injury_rehab_1780225004756.png",
+      image: "https://res.cloudinary.com/dr5obadvt/image/upload/v1780230557/pexels-photo-20860607_vs4gtg.jpg",
       details: {
         symptoms: ["Stiffness in morning", "Pain upon walking", "Swelling around joints", "Grating sensations during motion"],
         treatments: ["Intra-articular PRP injections", "Custom physical therapy routing", "Minimally invasive arthroscopic cleanup", "Advanced anti-pathological therapies"],
@@ -31,7 +31,7 @@ export default function Services({ onBookClick }: ServicesProps) {
       icon: ShieldAlert,
       color: "from-rose-500 to-orange-500",
       badge: "24/7 Trauma Assist",
-      image: "/src/assets/images/trauma_bone_fracture_1780224987483.png",
+      image: "https://res.cloudinary.com/dr5obadvt/image/upload/v1780230620/pexels-photo-8732779_stlghr.jpg",
       details: {
         symptoms: ["Severe bone pain post-fall", "Deformity or limb shortening", "Inability to bear body weight", "Open wounds or compounding injuries"],
         treatments: ["Intra-medullary nailing", "Rigid anatomical locking plating", "Closed reduction & specialized casting", "External skeletal fixation for complex trauma"],
@@ -45,7 +45,7 @@ export default function Services({ onBookClick }: ServicesProps) {
       icon: Zap,
       color: "from-emerald-500 to-teal-500",
       badge: "Athletic Excellence",
-      image: "/src/assets/images/sports_injury_rehab_1780225004756.png",
+      image: "https://res.cloudinary.com/dr5obadvt/image/upload/v1780230669/pexels-photo-13538710_ioicni.jpg",
       details: {
         symptoms: ["Ligament tears (ACL/MCL)", "Meniscal instability", "Rotator cuff tendonitis", "Acute ankle/shoulder sprains"],
         treatments: ["Arthroscopic ligament reconstruction", "Meniscal suture repair methods", "Muscle-tendon conditioning therapy", "Functional rehabilitation return-to-sport scaling"],
@@ -59,7 +59,7 @@ export default function Services({ onBookClick }: ServicesProps) {
       icon: Sparkles,
       color: "from-indigo-500 to-blue-600",
       badge: "Arthroplasty Specialists",
-      image: "/src/assets/images/knee_joint_implant_1780224969917.png",
+      image: "https://res.cloudinary.com/dr5obadvt/image/upload/v1780230724/pexels-photo-20860609_ojgofx.jpg",
       details: {
         symptoms: ["Bone-on-bone knee friction", "Severe groin/hip pain from osteoarthritis", "Limping due to developmental joint dysplasia", "Avascular necrosis (AVN) of femoral head"],
         treatments: ["Total Knee Replacement (TKR)", "Total Hip Replacement (THR)", "Partial/Unicondylar joint resurfacing", "Joint preserving osteotomies"],
@@ -73,7 +73,7 @@ export default function Services({ onBookClick }: ServicesProps) {
       icon: Smile,
       color: "from-amber-500 to-amber-600",
       badge: "Geriatric & Rheumatoid Care",
-      image: "/src/assets/images/ortho_arthritis_consult_1780225023047.png",
+      image: "https://res.cloudinary.com/dr5obadvt/image/upload/v1780230763/pexels-photo-36405544_wzcxbp.jpg",
       details: {
         symptoms: ["Symmetrical multi-joint aches", "Systemic inflammatory flares", "Progressively restrictive motion range", "Rheumatoid joint deformities"],
         treatments: ["Custom designed pharmacotherapy", "Viscosupplementation gel targets", "Low-impact orthopedic wellness planning", "Bone alignment corrective surgery"],
@@ -87,7 +87,7 @@ export default function Services({ onBookClick }: ServicesProps) {
       icon: Stethoscope,
       color: "from-teal-500 to-sky-600",
       badge: "Expert Second Opinions",
-      image: "/src/assets/images/clinic_interior_1780224222316.png",
+      image: "https://res.cloudinary.com/dr5obadvt/image/upload/v1780230827/pexels-photo-7088834_q96uon.jpg",
       details: {
         symptoms: ["Chronic un-diagnosed physical limps", "Persistent back, neck or spine pain", "Surgical advice checks", "Post-surgical rehabilitation progress checks"],
         treatments: ["Digital X-Ray / MRI diagnostics analysis", "Clinical physical orthopedic tests", "Step-by-step physical health profiling", "Multi-modal referral planning"],

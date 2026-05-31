@@ -69,7 +69,7 @@ export default function WhyChoose() {
             {/* Clinical Trust Photo Overlay */}
             <div className="relative group overflow-hidden rounded-2xl border border-slate-100 shadow-md">
               <img 
-                src="/src/assets/images/friendly_consultation_discussion_1780225269800.png" 
+                src="https://res.cloudinary.com/dr5obadvt/image/upload/v1780229254/587802656_17842679394634714_3646617993978590076_n_udyfjs.jpg" 
                 alt="Dr. Ekansh Debuka clinical consultation" 
                 className="w-full h-52 object-cover group-hover:scale-102 transition-transform duration-500"
                 referrerPolicy="no-referrer"

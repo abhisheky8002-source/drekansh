@@ -14,7 +14,7 @@ export default function Conditions() {
       symptoms: ["Lower lumbar throbbing", "Sciatic nerve radiating soreness", "Stiffness upon waking up"],
       severity: "Moderate",
       iconName: "Activity",
-      image: "/src/assets/images/spine_xray_mri_diagnostics_1780225237777.png"
+      image: "https://res.cloudinary.com/dr5obadvt/image/upload/v1780145393/Sciatica.jpg_e45b4v.png"
     },
     {
       id: "knee-pain",
@@ -23,7 +23,7 @@ export default function Conditions() {
       symptoms: ["Joint clicking sounds", "Frictional walking discomfort", "Seasonal knee swelling"],
       severity: "Severe",
       iconName: "Activity",
-      image: "/src/assets/images/knee_joint_implant_1780224969917.png"
+      image: "https://res.cloudinary.com/dr5obadvt/image/upload/v1780229613/b025b372-beb7-49b9-9895-646ced2f2957.png"
     },
     {
       id: "arthritis",
@@ -32,7 +32,7 @@ export default function Conditions() {
       symptoms: ["Symmetrical knuckle throbbing", "Morning finger joint locking", "Persistent cartilage aches"],
       severity: "Severe",
       iconName: "Healing",
-      image: "/src/assets/images/ortho_arthritis_consult_1780225023047.png"
+      image: "https://res.cloudinary.com/dr5obadvt/image/upload/v1780229691/3a10fcd7-2560-4300-9174-d8f0bab86fc8.png"
     },
     {
       id: "fractures",
@@ -41,7 +41,7 @@ export default function Conditions() {
       symptoms: ["Sudden severe structural swell", "Compromised limb mobility", "Vocal grating pain on contact"],
       severity: "Acute",
       iconName: "Bone",
-      image: "/src/assets/images/trauma_bone_fracture_1780224987483.png"
+      image: "https://res.cloudinary.com/dr5obadvt/image/upload/v1780229815/ca8e2df5-08cc-4921-be3c-6eb83e1d2c4d.png"
     },
     {
       id: "sports-injuries",
@@ -50,7 +50,7 @@ export default function Conditions() {
       symptoms: ["Dynamic knee giving-way", "Instability during sideways pivots", "Sudden pop-sound inside knee"],
       severity: "Acute",
       iconName: "Flame",
-      image: "/src/assets/images/sports_injury_rehab_1780225004756.png"
+      image: "https://res.cloudinary.com/dr5obadvt/image/upload/v1780229852/48d6aded-c472-423d-ad68-8a8dd5e3d020.png"
     },
     {
       id: "bone-disorders",
@@ -59,7 +59,7 @@ export default function Conditions() {
       symptoms: ["Postural rounding or stoops", "Frequent dull muscular bone ache", "Minor fractures from domestic slips"],
       severity: "Mild",
       iconName: "Activity",
-      image: "/src/assets/images/clinic_interior_1780224222316.png"
+      image: "https://res.cloudinary.com/dr5obadvt/image/upload/v1780229928/eff0865a-0349-4e2c-914f-a77a4dbc7b56.png"
     },
     {
       id: "joint-disorders",
@@ -68,7 +68,7 @@ export default function Conditions() {
       symptoms: ["Localized heat or burning", "Sharp pain on specific joint pivots", "Soft fluid-fluctuation feel"],
       severity: "Moderate",
       iconName: "Layers",
-      image: "/src/assets/images/knee_joint_implant_1780224969917.png"
+      image: "https://res.cloudinary.com/dr5obadvt/image/upload/v1780229995/e6d67156-59f8-4a4a-b75a-838a6c57517d.png"
     },
     {
       id: "trauma-cases",
@@ -77,7 +77,7 @@ export default function Conditions() {
       symptoms: ["Multiple fracture alignments", "Soft tissue damage surrounding bone", "Immobilized emergency pathology"],
       severity: "Acute",
       iconName: "Activity",
-      image: "/src/assets/images/dr_operating_precision_1780225219369.png"
+      image: "https://res.cloudinary.com/dr5obadvt/image/upload/v1780230102/pexels-photo-6003301_ibyi0l.jpg"
     }
   ];
 

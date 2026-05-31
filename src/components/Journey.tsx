@@ -11,7 +11,7 @@ export default function Journey() {
       icon: Stethoscope,
       bgStyle: "bg-blue-50 text-med-blue border-blue-100",
       accent: "#1e3e62",
-      image: "/src/assets/images/ortho_arthritis_consult_1780225023047.png"
+      image: "https://res.cloudinary.com/dr5obadvt/image/upload/v1780230280/pexels-photo-12599544_fm2yho.jpg"
     },
     {
       stepNum: "02",
@@ -21,7 +21,7 @@ export default function Journey() {
       icon: Search,
       bgStyle: "bg-sky-50 text-med-teal border-sky-150",
       accent: "#0284c7",
-      image: "/src/assets/images/spine_xray_mri_diagnostics_1780225237777.png"
+      image: "https://res.cloudinary.com/dr5obadvt/image/upload/v1780230329/pexels-photo-5214994_k8mci1.jpg"
     },
     {
       stepNum: "03",
@@ -31,7 +31,7 @@ export default function Journey() {
       icon: ClipboardList,
       bgStyle: "bg-indigo-50 text-indigo-650 border-indigo-100",
       accent: "#4f46e5",
-      image: "/src/assets/images/dr_operating_precision_1780225219369.png"
+      image: "https://res.cloudinary.com/dr5obadvt/image/upload/v1780230386/pexels-photo-18475694_yzvx20.jpg"
     },
     {
       stepNum: "04",
@@ -41,7 +41,7 @@ export default function Journey() {
       icon: Activity,
       bgStyle: "bg-emerald-50 text-emerald-650 border-emerald-100",
       accent: "#0d9488",
-      image: "/src/assets/images/patient_rehab_recovery_1780225255368.png"
+      image: "https://res.cloudinary.com/dr5obadvt/image/upload/v1780230439/pexels-photo-6011656_airhyv.jpg"
     }
   ];
 
